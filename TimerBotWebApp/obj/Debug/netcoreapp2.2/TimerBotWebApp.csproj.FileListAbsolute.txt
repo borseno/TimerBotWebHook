@@ -1,0 +1,14 @@
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\bin\Debug\netcoreapp2.2\TimerBotWebApp.deps.json
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\bin\Debug\netcoreapp2.2\TimerBotWebApp.runtimeconfig.json
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\bin\Debug\netcoreapp2.2\TimerBotWebApp.runtimeconfig.dev.json
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\bin\Debug\netcoreapp2.2\TimerBotWebApp.dll
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\obj\Debug\netcoreapp2.2\TimerBotWebApp.csprojAssemblyReference.cache
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\obj\Debug\netcoreapp2.2\TimerBotWebApp.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\obj\Debug\netcoreapp2.2\TimerBotWebApp.RazorAssemblyInfo.cache
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\obj\Debug\netcoreapp2.2\TimerBotWebApp.RazorAssemblyInfo.cs
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\obj\Debug\netcoreapp2.2\TimerBotWebApp.AssemblyInfoInputs.cache
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\obj\Debug\netcoreapp2.2\TimerBotWebApp.AssemblyInfo.cs
+C:\Users\VAIO\source\repos\TimerBotWebApp\TimerBotWebApp\obj\Debug\netcoreapp2.2\TimerBotWebApp.RazorTargetAssemblyInfo.cache
