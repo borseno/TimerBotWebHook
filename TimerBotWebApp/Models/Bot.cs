@@ -29,7 +29,7 @@ namespace TimerBotWebApp.Models
                 {
                     client = new TelegramBotClient(ApiToken);
 
-                    await client.SetWebhookAsync($"{WebApiUrl}/{nameof(UpdateController).RemoveAtEnd(nameof(Controller))}");
+                    await client.SetWebhookAsync($"{TimerBotWebApp.Models.Constants.WebApiUrl}/api/{nameof(UpdateController).RemoveAtEnd(nameof(Controller)).ToLower()}");
                 }
             }
             finally
